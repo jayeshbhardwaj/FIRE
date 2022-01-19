@@ -33,9 +33,9 @@ https://twitter.com/rohitchauhan
 
 [Solidarity](https://www.solidarity.in/quarterly-letters/)
 
-https://marketsense.substack.com/
+[Marketsense](https://marketsense.substack.com/)
 
-https://intelsense.in/
+[Intelsense](https://intelsense.in/)
 
 [Betaoalpha Substack](https://saketmehrotra.com/premium-content/)
 
@@ -57,11 +57,11 @@ https://intelsense.in/
 
 [Motley Fool](https://www.fool.com/)
 
-https://investkaroindia.substack.com/
+[InvestKaro](https://investkaroindia.substack.com/)
 
-https://fintechinside.substack.com/p/fortynine
+[Fintechinside](https://fintechinside.substack.com/p/fortynine)
 
-https://privateinvestor.substack.com
+[Private Investor](https://privateinvestor.substack.com)
 
 
 ### Youtube and Podcasts
