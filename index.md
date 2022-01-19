@@ -1,37 +1,192 @@
-## Welcome to GitHub Pages
+## Baba Niloy ki Gyaanshala
 
-You can use the [editor on GitHub](https://github.com/jayeshbhardwaj/FIRE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Blogs/Websites
+Screener  https://www.screener.in/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tijori Finance  https://www.tijorifinance.com/
 
-```markdown
-Syntax highlighted code block
+Farnam Street  https://fs.blog/
 
-# Header 1
-## Header 2
-### Header 3
+Morgan Housel  collaborativefund.com/blog
 
-- Bulleted
-- List
+Ancient Sage  https://twitter.com/TheAncientSage
 
-1. Numbered
-2. List
+Jordan Peterson  https://www.jordanbpeterson.com/
 
-**Bold** and _Italic_ and `Code` text
+The Ken  https://the-ken.com/
 
-[Link](url) and ![Image](src)
-```
+Economic Times  https://economictimes.indiatimes.com/
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The Economist  https://www.economist.com/
 
-### Jekyll Themes
+Forbes India  https://www.forbesindia.com/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jayeshbhardwaj/FIRE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Kiran D Blog  kiraninvestsandlearns.wordpress.com
 
-### Support or Contact
+Uncommon Profits  https://uncommonprofits.in/
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Stalwart  http://stalwartvalue.com/blog/
+
+@rohitchauhan  https://twitter.com/rohitchauhan
+
+Solidarity  https://www.solidarity.in/quarterly-letters/
+
+Market Sense  https://marketsense.substack.com/
+
+Intelsense  intelsense.in
+
+Betaoalpha Substack  https://saketmehrotra.com/premium-content/
+
+Marcellus  https://marcellus.in/blog/
+
+Perfect Research  perfectresearch.blogspot.in
+
+Sanjay Bakshi  https://fundooprofessor.wordpress.com/
+
+The Flywheel substack  https://theflywheel.substack.com/?utm_source=discover_search
+
+Read The Generalist  https://www.readthegeneralist.com/
+
+@borrowed_ideas  https://twitter.com/borrowed_ideas
+
+Non-Gaap Substack  https://nongaap.substack.com/
+
+Seeking Alpha  https://seekingalpha.com/
+
+Motley Fool  https://www.fool.com/
+
+https://investkaroindia.substack.com/
+
+https://fintechinside.substack.com/p/fortynine
+
+https://privateinvestor.substack.com
+
+
+### Youtube and Podcasts
+Captain Sinbad  https://www.youtube.com/c/CaptainSinbad
+
+CFA Society India  https://www.youtube.com/c/IndiacfasocietyOrg_IAIP
+
+YouTube  Swedish Investor    https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A
+
+Brian Feroldi  https://www.youtube.com/channel/UCs60_Z83HU76uygzHRQl0kA
+
+Bharat Shah with Saurabh Mukherjee  https://www.youtube.com/watch?v=IGaOW7tT-ik&t=1668s
+
+Omakara Capital-MGT Interviews  https://www.youtube.com/c/OmkaraPathshala
+
+B&K-MGT Interviews  https://www.youtube.com/channel/UCUNV0jzQHTp5pMPYsXX9yPg
+
+Youtube  Sugar Dive Deep    https://www.youtube.com/watch?v=UMjHWi5uaUY&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=7&t=1214s
+
+Youtube  Masterclass with Saurabh Mukherjee    https://www.youtube.com/watch?v=8uCxFTghxtc&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=10
+
+Youtube  Yen Liow- Compunding    https://youtu.be/AeczYyvgBao
+
+PPFAS  https://www.youtube.com/c/ppfasltd
+
+Trendlyne  https://www.youtube.com/c/trendlyne
+
+Alphastreet India  https://www.youtube.com/channel/UC10XEWaSTU7wo9IJL-SXM3g
+
+Sanjay Bakshi with SSN Network  https://www.youtube.com/watch?v=f5FztictBQE
+
+The One Percent Show by Safal Niveshak  https://open.spotify.com/show/5aOkaYLLVNVLLj3QhSASyi
+
+Business Wars  https://open.spotify.com/show/6RbJUsaOaboqSBqQUfdQtR
+
+We Study Billionaries  https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP
+
+The Knowledge Project  https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM
+
+Berkshire Hathway AGMs  https://open.spotify.com/show/4bQf9WvU22gUm9WbFfHL7a?si=3VZsS5rdT7-LGDykZCbvuQ&utm_source=whatsapp&dl_branch=1
+
+Motley Fool Money  https://open.spotify.com/show/7tXRc97C1fA0epHAGQuJOE?si=3f1a4792565744d7
+
+### Books
+#### Indian/Finance/Wisdom
+The Joys of Compounding
+
+Of Long-term Value & Wealth Creation from Equity Investing
+
+Masterclass with Super Investors
+
+Coffee Can Investing
+
+Diamonds in the Dust
+
+Unusual Billionaries
+
+Bad Money NPA Mess
+
+Bulls, Bears and Other Beasts
+
+The Scam: Who Won, who Lost, who Got Away
+
+Absolute Power by Sucheta Dalal
+
+Wings of Fire by APJ Abdul Kalam
+
+The Monk Who Sold His Ferrari by Robin Sharma
+
+
+#### International/Finance/Wisdom
+Richer Wiser Happier
+
+100 Baggers
+
+The Pyschology of Money
+
+Mckinsey Book on Valuation
+
+Zurich Axioms
+
+A Wealth of Common Sense
+
+Dhandho Investor
+
+Terry Smith Investing for Growth
+
+One up on Wall Street by Peter Lynch
+
+Atomic Habits
+
+Rich Dad Poor Dad
+
+Deep Work
+
+The Subtle Art of not Giving a Fuck
+
+Thinking in Bets
+
+The Dip
+
+How to Win Friends and Influence People
+
+The Tao of Warren Buffett
+
+The Tao of Charlie Munger
+
+The Art of Living
+
+Give and Take
+
+Range
+
+The Almanack of Naval Ravikant
+
+Poor Charlie's Almanack
+
+Wisdom  International Book  Seeking Wisdom
+
+Importance of ROIC
+
+8 Vantage Point Analysis by Sanjay Bakshi
+
+Investing  Article  Relaxo Project
+
+Shoe Dog by Phil Knight
+
+Invent & Wander by Jeff Bezos
