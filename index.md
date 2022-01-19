@@ -1,61 +1,61 @@
-## Baba Niloy ki Gyaanshala
+## Money Heist Finance Learning Resources
 
 
 
 ### Blogs/Websites
-Screener  https://www.screener.in/
+[Screener](https://www.screener.in/)
 
-Tijori Finance  https://www.tijorifinance.com/
+[Tijori Finance](https://www.tijorifinance.com/)
 
-Farnam Street  https://fs.blog/
+[Farnam Street](https://fs.blog/)
 
-Morgan Housel  collaborativefund.com/blog
+[Morgan Housel](collaborativefund.com/blog)
 
-Ancient Sage  https://twitter.com/TheAncientSage
+[Ancient Sage](https://twitter.com/TheAncientSage)
 
-Jordan Peterson  https://www.jordanbpeterson.com/
+[Jordan Peterson](https://www.jordanbpeterson.com/)
 
-The Ken  https://the-ken.com/
+[The Ken](https://the-ken.com/)
 
-Economic Times  https://economictimes.indiatimes.com/
+[Economic Times](https://economictimes.indiatimes.com/)
 
-The Economist  https://www.economist.com/
+[The Economist](https://www.economist.com/)
 
-Forbes India  https://www.forbesindia.com/
+[Forbes India](https://www.forbesindia.com/)
 
-Kiran D Blog  kiraninvestsandlearns.wordpress.com
+[Kiran D Blog](kiraninvestsandlearns.wordpress.com)
 
-Uncommon Profits  https://uncommonprofits.in/
+https://uncommonprofits.in/
 
-Stalwart  http://stalwartvalue.com/blog/
+http://stalwartvalue.com/blog/
 
-@rohitchauhan  https://twitter.com/rohitchauhan
+https://twitter.com/rohitchauhan
 
-Solidarity  https://www.solidarity.in/quarterly-letters/
+[Solidarity](https://www.solidarity.in/quarterly-letters/)
 
-Market Sense  https://marketsense.substack.com/
+https://marketsense.substack.com/
 
-Intelsense  intelsense.in
+https://intelsense.in/
 
-Betaoalpha Substack  https://saketmehrotra.com/premium-content/
+[Betaoalpha Substack](https://saketmehrotra.com/premium-content/)
 
-Marcellus  https://marcellus.in/blog/
+[Marcellus](https://marcellus.in/blog/)
 
-Perfect Research  perfectresearch.blogspot.in
+[Perfect Research](https://perfectresearch.blogspot.in)
 
-Sanjay Bakshi  https://fundooprofessor.wordpress.com/
+[Sanjay Bakshi](https://fundooprofessor.wordpress.com/)
 
-The Flywheel substack  https://theflywheel.substack.com/?utm_source=discover_search
+[The Flywheel substack](https://theflywheel.substack.com/?utm_source=discover_search)
 
-Read The Generalist  https://www.readthegeneralist.com/
+[Read The Generalist](https://www.readthegeneralist.com/)
 
-@borrowed_ideas  https://twitter.com/borrowed_ideas
+[@borrowed_ideas](https://twitter.com/borrowed_ideas)
 
-Non-Gaap Substack  https://nongaap.substack.com/
+[Non-Gaap Substack](https://nongaap.substack.com/)
 
-Seeking Alpha  https://seekingalpha.com/
+[Seeking Alpha](https://seekingalpha.com/)
 
-Motley Fool  https://www.fool.com/
+[Motley Fool](https://www.fool.com/)
 
 https://investkaroindia.substack.com/
 
@@ -65,45 +65,65 @@ https://privateinvestor.substack.com
 
 
 ### Youtube and Podcasts
-Captain Sinbad  https://www.youtube.com/c/CaptainSinbad
+Captain Sinbad  
+https://www.youtube.com/c/CaptainSinbad
 
-CFA Society India  https://www.youtube.com/c/IndiacfasocietyOrg_IAIP
+CFA Society India  
+https://www.youtube.com/c/IndiacfasocietyOrg_IAIP
 
-YouTube  Swedish Investor    https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A
+YouTube  Swedish Investor    
+https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A
 
-Brian Feroldi  https://www.youtube.com/channel/UCs60_Z83HU76uygzHRQl0kA
+Brian Feroldi  
+https://www.youtube.com/channel/UCs60_Z83HU76uygzHRQl0kA
 
-Bharat Shah with Saurabh Mukherjee  https://www.youtube.com/watch?v=IGaOW7tT-ik&t=1668s
+Bharat Shah with Saurabh Mukherjee  
+https://www.youtube.com/watch?v=IGaOW7tT-ik&t=1668s
 
-Omakara Capital-MGT Interviews  https://www.youtube.com/c/OmkaraPathshala
+Omakara Capital-MGT Interviews  
+https://www.youtube.com/c/OmkaraPathshala
 
-B&K-MGT Interviews  https://www.youtube.com/channel/UCUNV0jzQHTp5pMPYsXX9yPg
+B&K-MGT Interviews  
+https://www.youtube.com/channel/UCUNV0jzQHTp5pMPYsXX9yPg
 
-Youtube  Sugar Dive Deep    https://www.youtube.com/watch?v=UMjHWi5uaUY&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=7&t=1214s
+Youtube  Sugar Dive Deep    
+https://www.youtube.com/watch?v=UMjHWi5uaUY&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=7&t=1214s
 
-Youtube  Masterclass with Saurabh Mukherjee    https://www.youtube.com/watch?v=8uCxFTghxtc&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=10
+Youtube  Masterclass with Saurabh Mukherjee    
+https://www.youtube.com/watch?v=8uCxFTghxtc&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=10
 
-Youtube  Yen Liow- Compunding    https://youtu.be/AeczYyvgBao
+Youtube  Yen Liow- Compunding    
+https://youtu.be/AeczYyvgBao
 
-PPFAS  https://www.youtube.com/c/ppfasltd
+PPFAS  
+https://www.youtube.com/c/ppfasltd
 
-Trendlyne  https://www.youtube.com/c/trendlyne
+Trendlyne  
+https://www.youtube.com/c/trendlyne
 
-Alphastreet India  https://www.youtube.com/channel/UC10XEWaSTU7wo9IJL-SXM3g
+Alphastreet India  
+https://www.youtube.com/channel/UC10XEWaSTU7wo9IJL-SXM3g
 
-Sanjay Bakshi with SSN Network  https://www.youtube.com/watch?v=f5FztictBQE
+Sanjay Bakshi with SSN Network  
+https://www.youtube.com/watch?v=f5FztictBQE
 
-The One Percent Show by Safal Niveshak  https://open.spotify.com/show/5aOkaYLLVNVLLj3QhSASyi
+The One Percent Show by Safal Niveshak  
+https://open.spotify.com/show/5aOkaYLLVNVLLj3QhSASyi
 
-Business Wars  https://open.spotify.com/show/6RbJUsaOaboqSBqQUfdQtR
+Business Wars  
+https://open.spotify.com/show/6RbJUsaOaboqSBqQUfdQtR
 
-We Study Billionaries  https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP
+We Study Billionaries  
+https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP
 
-The Knowledge Project  https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM
+The Knowledge Project  
+https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM
 
-Berkshire Hathway AGMs  https://open.spotify.com/show/4bQf9WvU22gUm9WbFfHL7a?si=3VZsS5rdT7-LGDykZCbvuQ&utm_source=whatsapp&dl_branch=1
+Berkshire Hathway AGMs  
+https://open.spotify.com/show/4bQf9WvU22gUm9WbFfHL7a?si=3VZsS5rdT7-LGDykZCbvuQ&utm_source=whatsapp&dl_branch=1
 
-Motley Fool Money  https://open.spotify.com/show/7tXRc97C1fA0epHAGQuJOE?si=3f1a4792565744d7
+Motley Fool Money  
+https://open.spotify.com/show/7tXRc97C1fA0epHAGQuJOE?si=3f1a4792565744d7
 
 ### Books
 #### Indian/Finance/Wisdom
