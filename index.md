@@ -25,11 +25,11 @@
 
 [Kiran D Blog](kiraninvestsandlearns.wordpress.com)
 
-https://uncommonprofits.in/
+[Uncommon profts](https://uncommonprofits.in/)
 
-http://stalwartvalue.com/blog/
+[Stalwart](http://stalwartvalue.com/blog/)
 
-https://twitter.com/rohitchauhan
+[Rohit Chauhan](https://twitter.com/rohitchauhan)
 
 [Solidarity](https://www.solidarity.in/quarterly-letters/)
 
