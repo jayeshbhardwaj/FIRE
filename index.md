@@ -65,65 +65,45 @@ https://privateinvestor.substack.com
 
 
 ### Youtube and Podcasts
-Captain Sinbad  
-https://www.youtube.com/c/CaptainSinbad
+[Captain Sinbad](https://www.youtube.com/c/CaptainSinbad)
 
-CFA Society India  
-https://www.youtube.com/c/IndiacfasocietyOrg_IAIP
+[CFA Society India](https://www.youtube.com/c/IndiacfasocietyOrg_IAIP)
 
-YouTube  Swedish Investor    
-https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A
+[YouTube  Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A)
 
-Brian Feroldi  
-https://www.youtube.com/channel/UCs60_Z83HU76uygzHRQl0kA
+[Brian Feroldi](https://www.youtube.com/channel/UCs60_Z83HU76uygzHRQl0kA)
 
-Bharat Shah with Saurabh Mukherjee  
-https://www.youtube.com/watch?v=IGaOW7tT-ik&t=1668s
+[Bharat Shah with Saurabh Mukherjee](https://www.youtube.com/watch?v=IGaOW7tT-ik&t=1668s)
 
-Omakara Capital-MGT Interviews  
-https://www.youtube.com/c/OmkaraPathshala
+[Omakara Capital-MGT Interviews](https://www.youtube.com/c/OmkaraPathshala)
 
-B&K-MGT Interviews  
-https://www.youtube.com/channel/UCUNV0jzQHTp5pMPYsXX9yPg
+[B&K-MGT Interviews](https://www.youtube.com/channel/UCUNV0jzQHTp5pMPYsXX9yPg)
 
-Youtube  Sugar Dive Deep    
-https://www.youtube.com/watch?v=UMjHWi5uaUY&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=7&t=1214s
+[Youtube  Sugar Dive Deep](https://www.youtube.com/watch?v=UMjHWi5uaUY&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=7&t=1214s)
 
-Youtube  Masterclass with Saurabh Mukherjee    
-https://www.youtube.com/watch?v=8uCxFTghxtc&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=10
+[Youtube  Masterclass with Saurabh Mukherjee](https://www.youtube.com/watch?v=8uCxFTghxtc&list=PLpU3tmEn1vp4SfcVbU39mGYYa9194vtT7&index=10)
 
-Youtube  Yen Liow- Compunding    
-https://youtu.be/AeczYyvgBao
+[Youtube  Yen Liow- Compunding](https://youtu.be/AeczYyvgBao)
 
-PPFAS  
-https://www.youtube.com/c/ppfasltd
+[PPFAS](https://www.youtube.com/c/ppfasltd)
 
-Trendlyne  
-https://www.youtube.com/c/trendlyne
+[Trendlyne]https://www.youtube.com/c/trendlyne)
 
-Alphastreet India  
-https://www.youtube.com/channel/UC10XEWaSTU7wo9IJL-SXM3g
+[Alphastreet India](https://www.youtube.com/channel/UC10XEWaSTU7wo9IJL-SXM3g)
 
-Sanjay Bakshi with SSN Network  
-https://www.youtube.com/watch?v=f5FztictBQE
+[Sanjay Bakshi with SSN Network](https://www.youtube.com/watch?v=f5FztictBQE)
 
-The One Percent Show by Safal Niveshak  
-https://open.spotify.com/show/5aOkaYLLVNVLLj3QhSASyi
+[The One Percent Show by Safal Niveshak](https://open.spotify.com/show/5aOkaYLLVNVLLj3QhSASyi)
 
-Business Wars  
-https://open.spotify.com/show/6RbJUsaOaboqSBqQUfdQtR
+[Business Wars](https://open.spotify.com/show/6RbJUsaOaboqSBqQUfdQtR)
 
-We Study Billionaries  
-https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP
+[We Study Billionaries](https://open.spotify.com/show/28RHOkXkuHuotUrkCdvlOP)
 
-The Knowledge Project  
-https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM
+[The Knowledge Project](https://open.spotify.com/show/1VyK52NSZHaDKeMJzT4TSM)
 
-Berkshire Hathway AGMs  
-https://open.spotify.com/show/4bQf9WvU22gUm9WbFfHL7a?si=3VZsS5rdT7-LGDykZCbvuQ&utm_source=whatsapp&dl_branch=1
+[Berkshire Hathway AGMs](https://open.spotify.com/show/4bQf9WvU22gUm9WbFfHL7a?si=3VZsS5rdT7-LGDykZCbvuQ&utm_source=whatsapp&dl_branch=1)
 
-Motley Fool Money  
-https://open.spotify.com/show/7tXRc97C1fA0epHAGQuJOE?si=3f1a4792565744d7
+[Motley Fool Money](https://open.spotify.com/show/7tXRc97C1fA0epHAGQuJOE?si=3f1a4792565744d7)
 
 ### Books
 #### Indian/Finance/Wisdom
