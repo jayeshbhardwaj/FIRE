@@ -87,7 +87,7 @@ https://privateinvestor.substack.com
 
 [PPFAS](https://www.youtube.com/c/ppfasltd)
 
-[Trendlyne]https://www.youtube.com/c/trendlyne)
+[Trendlyne](https://www.youtube.com/c/trendlyne)
 
 [Alphastreet India](https://www.youtube.com/channel/UC10XEWaSTU7wo9IJL-SXM3g)
 
