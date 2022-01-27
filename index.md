@@ -107,7 +107,6 @@
 
 ### Books
 #### Indian/Finance/Wisdom
-[One up on Wall Street - Peter Lynch](https://www.amazon.in/One-Up-Wall-Street-Already/dp/0743200403)
 
 [The Joys of Compounding - Gautam Baid](https://www.amazon.in/Joys-Compounding-Passionate-Lifelong-Learning/dp/9390351014)
 
@@ -131,10 +130,12 @@ Absolute Power by Sucheta Dalal
 
 Wings of Fire by APJ Abdul Kalam
 
-The Monk Who Sold His Ferrari by Robin Sharma
 
 
 #### International/Finance/Wisdom
+
+[One up on Wall Street - Peter Lynch](https://www.amazon.in/One-Up-Wall-Street-Already/dp/0743200403)
+
 Richer Wiser Happier
 
 100 Baggers
