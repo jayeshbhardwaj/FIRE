@@ -107,7 +107,9 @@
 
 ### Books
 #### Indian/Finance/Wisdom
-The Joys of Compounding
+[One up on Wall Street - Peter Lynch](https://www.amazon.in/One-Up-Wall-Street-Already/dp/0743200403)
+
+[The Joys of Compounding - Gautam Baid](https://www.amazon.in/Joys-Compounding-Passionate-Lifelong-Learning/dp/9390351014)
 
 Of Long-term Value & Wealth Creation from Equity Investing
 
